@@ -12,7 +12,7 @@ The problem should to be solved using the tabulation technique.
 If interested in my comments and approach, I invite you to read the follwoing
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/10/can-sum-tabulation/
 
 Remember that the best way to learn is to read and experiment.
 
